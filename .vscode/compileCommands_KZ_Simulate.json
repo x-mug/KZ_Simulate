@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\\\Users\\\\hzj\\\\Documents\\\\Unreal Projects\\\\KZ_Simulate\\\\Source\\\\KZ_Simulate\\\\KZ_Simulate.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\hzj\\Documents\\Unreal Projects\\KZ_Simulate\\.vscode\\compileCommands_KZ_Simulate\\KZ_Simulate.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\hzj\\\\Documents\\\\Unreal Projects\\\\KZ_Simulate\\\\Source\\\\KZ_Simulate\\\\KZ_Simulate.cpp",
+		"command": "cl.exe @\"C:\\Users\\hzj\\Documents\\Unreal Projects\\KZ_Simulate\\.vscode\\compileCommands_KZ_Simulate\\KZ_Simulate.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\hzj\\\\Documents\\\\Unreal Projects\\\\KZ_Simulate\\\\Source\\\\KZ_Simulate\\\\KZ_Simulate.h",
+		"command": "cl.exe @\"C:\\Users\\hzj\\Documents\\Unreal Projects\\KZ_Simulate\\.vscode\\compileCommands_KZ_Simulate\\KZ_Simulate.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\hzj\\\\Documents\\\\Unreal Projects\\\\KZ_Simulate\\\\Source\\\\KZ_Simulate\\\\NewActorComponent.cpp",
+		"command": "cl.exe @\"C:\\Users\\hzj\\Documents\\Unreal Projects\\KZ_Simulate\\.vscode\\compileCommands_KZ_Simulate\\KZ_Simulate.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\hzj\\\\Documents\\\\Unreal Projects\\\\KZ_Simulate\\\\Source\\\\KZ_Simulate\\\\NewActorComponent.h",
+		"command": "cl.exe @\"C:\\Users\\hzj\\Documents\\Unreal Projects\\KZ_Simulate\\.vscode\\compileCommands_KZ_Simulate\\KZ_Simulate.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]

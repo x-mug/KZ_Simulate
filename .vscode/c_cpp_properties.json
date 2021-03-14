@@ -1,0 +1,9 @@
+{
+	"configurations": [
+		{
+			"name": "KZ_SimulateEditor Editor Win64 Development (KZ_Simulate)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\hzj\\Documents\\Unreal Projects\\KZ_Simulate\\.vscode\\compileCommands_KZ_Simulate.json"
+		}
+	]
+}
