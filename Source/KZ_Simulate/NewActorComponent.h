@@ -26,5 +26,5 @@ public:
 
 public:
 	UFUNCTION(BlueprintCallable, Category="IdontKnow")
-	virtual void SelfDefinedFunctionWaittingToBeCalled();
+	virtual void SelfDefinedFunctionWaittingToBeCalled(); 
 };
